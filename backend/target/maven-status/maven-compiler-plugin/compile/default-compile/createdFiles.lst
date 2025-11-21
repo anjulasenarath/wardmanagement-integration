@@ -19,6 +19,7 @@ com\peradeniya\renal\model\Patient$PatientBuilder.class
 com\peradeniya\renal\repository\AllergyRepository.class
 com\peradeniya\renal\dto\PatientCreateRequest.class
 com\peradeniya\renal\model\ProgressNote$ProgressNoteBuilder.class
+com\peradeniya\pom.xml
 com\peradeniya\renal\dto\ProgressNoteRequest.class
 com\peradeniya\renal\model\Allergy.class
 com\peradeniya\renal\model\Patient.class
